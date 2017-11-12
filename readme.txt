@@ -6,3 +6,4 @@ Git tracks changes.
 111111111111111111
 222222222222222222
 My stupid boss still prefers SVN.
+Creating a new branch is quick.
